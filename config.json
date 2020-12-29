@@ -3,6 +3,6 @@
 
 
 "////////////////////////////////////////////////////////////////////": "Information pour crée votre terminalchat, Laissez celles par défaut sauf si vous voulez crée un terminalchat",
-"token": "",
+"token": [""],
 "channelId": ""
 }
