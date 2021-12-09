@@ -1,3 +1,7 @@
+# Arrêt de Terminalchat
+
+Terminalchat n'est désormais plus supporté et ne sera plus mis à jour (le pire c'est que ptdr j'avais prévu y'a quelques mois une maj incroyable avec des commandes pour ban et tout mais pas grave). [Ecochat](https://ecochat.github.io/ecochat) est son remplaçant, plus safe car Terminalchat en termes de sécurité c'est UNE CATASTROPHE. Notez que si ça vous donne envie, bah vous pouvez quand même essayer de crée un terminalchat.
+
 # Terminalchat
 
 ## Comment l'installer
